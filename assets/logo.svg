@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Wags N' Whiskers paw logo">
+  <circle cx="50" cy="50" r="48" fill="#173f35"/>
+  <circle cx="50" cy="50" r="44.5" fill="none" stroke="#f2a65a" stroke-width="2" stroke-dasharray="4 5"/>
+  <g fill="#fff8ee">
+    <ellipse cx="50" cy="62" rx="15" ry="12"/>
+    <ellipse cx="29" cy="44" rx="6.5" ry="8.5" transform="rotate(-18 29 44)"/>
+    <ellipse cx="42.5" cy="35.5" rx="6.5" ry="9"/>
+    <ellipse cx="57.5" cy="35.5" rx="6.5" ry="9"/>
+    <ellipse cx="71" cy="44" rx="6.5" ry="8.5" transform="rotate(18 71 44)"/>
+  </g>
+  <path d="M29 66 q-9 2 -13 -3 M71 66 q9 2 13 -3" stroke="#e8835f" stroke-width="3" fill="none" stroke-linecap="round"/>
+</svg>
